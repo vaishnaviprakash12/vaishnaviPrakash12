@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Vaishnavi Prakash
 
 <!--
 **vaishnaviprakash12/vaishnaviPrakash12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

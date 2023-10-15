@@ -1,8 +1,8 @@
-### Hi there 👋 Vaishnavi Prakash
-
+### Hi there 👋 Vaishnavi Prakash👧
+### A Full Stack Web developer🎯 
 <!--
 **vaishnaviprakash12/vaishnaviPrakash12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+*👨‍💻 Full Stack MERN Developer
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
